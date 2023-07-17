@@ -1,0 +1,9 @@
+.ui-menu{
+    z-index: 3000;
+}
+
+
+.category-image{
+    width: 200px; 
+    height: 150px;
+} 
