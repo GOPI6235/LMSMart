@@ -78,7 +78,7 @@
 
         <!-- Footer Copyright End -->
         <div class="footer-copyright footer-copyright-white text-center">
-            <p>&copy; Copyrights 2021 LMSMart All rights reserved. </p>
+            <p> LMSMart </p>
         </div>
         <!-- Footer Copyright End -->
 
